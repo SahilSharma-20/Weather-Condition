@@ -52,7 +52,7 @@ if response.status_code == 200:
 
 	# store the value of "weather"
 	# key in variable z
-	z = x["weather"]uipykljm
+	z = x["weather"]
 
 	# store the value corresponding
 	# to the "description" key at
