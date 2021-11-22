@@ -67,7 +67,7 @@ if response.status_code == 200:
 		"\n humidity (in percentage) = " +
 					str(current_humidity) +
 		"\n description = " +
-					str(weather_description))kkkkkkkkk
+					str(weather_description))
 
 else:
 	print(" City Not Found ")
